@@ -7,17 +7,13 @@
 <div>Front end technologies, and back end solutions.</div>
 <div>I want to spend more time working with data visualization technologies, as well as increase my back-end expertise.</div>
 <br>
-- 📫 How to reach me ...
-<br>
-<div>Email: brynfrayne@gmail.com</div>
-<div>Linkedin: www.linkedin.com/in/brynfrayne</div>
-<br>
+
 <!---
 brynfrayne/brynfrayne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-###  Frameworks I Use
+##  Frameworks I Use
 
 
 <div>
@@ -31,7 +27,8 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-###  Languages I Know
+## Languages I Know
+
 
 <div>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html badge" />
@@ -39,3 +36,14 @@ You can click the Preview link to take a look at your changes.
    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript badge" />
    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json badge" /> 
 </div>
+
+## 📫 How to reach me ...
+
+
+<a href="https://www.linkedin.com/in/brynfrayne/">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
+
+<a href="mailto:brynfrayne@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge" />
+</a>
